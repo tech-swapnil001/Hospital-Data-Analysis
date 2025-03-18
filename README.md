@@ -1,1 +1,2 @@
 # Hospital-Data-Analysis
+A Hospital Data Analysis project in Power BI focuses on visualizing and analyzing key healthcare metrics to improve decision-making. It includes dashboards for patient demographics, hospital occupancy, treatment outcomes, staff efficiency, revenue trends, and operational performance. The project helps in identifying bottlenecks, optimizing resource allocation, and improving patient care through interactive reports and data-driven insights.
